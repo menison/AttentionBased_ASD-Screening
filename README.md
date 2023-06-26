@@ -1,5 +1,5 @@
 # Attention-based ASD Screening
-This code implements the attention-based ASD screening software.
+Attention-based ASD screening software.
 It is used to predict results on handcrafted data sampled from Tobii 4C/EyeX consumer-level eye-tracking devices.
 The underlying model was trained and validated on Saliency4ASD(https://saliency4asd.ls2n.fr/datasets/) dataset.[1]
 
