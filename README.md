@@ -1,10 +1,8 @@
 # Attention-based ASD Screening
-This code implements the image-viewing based ASD screening model.
-It is used to reproduce the results on handcrafted data sampled from Tobii 4C/EyeX consumer-level eye-tracking devices.
-The underlying model was trained and validated on Saliency4ASD(https://saliency4asd.ls2n.fr/datasets/) dataset.
+This code implements the attention-based ASD screening software.
+It is used to predict results on handcrafted data sampled from Tobii 4C/EyeX consumer-level eye-tracking devices.
+The underlying model was trained and validated on Saliency4ASD(https://saliency4asd.ls2n.fr/datasets/) dataset.[1]
 
-### Reference
-If you use our code or data, please cite our paper:
 
 ### Requirements
 1. Pytorch: We use Pytorch 1.2.0 in our experiments.
@@ -21,9 +19,8 @@ The code displays images from [Saliency4ASD](https://saliency4asd.ls2n.fr/datase
 ### Installation
 Extract the folder 'PyProjects' to drive F:/ to create the path 'F:/PyProjects'. The rest is straight-forward, just run the main file and follow the instructions on the screen.
 Additional instructions can be find within the 'User Guide: Operating Instructions' section of our book.
-```
+
 python main.py 
-```
 
 ## Acknowledgments
 We would like to thank Shi Chen and Qi Zhao for their valuable contribution to the field of autism research [1].
