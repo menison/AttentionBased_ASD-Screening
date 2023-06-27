@@ -23,7 +23,10 @@ Additional instructions can be find within the 'User Guide: Operating Instructio
 python main.py 
 
 ## Acknowledgments
-We would like to thank Shi Chen and Qi Zhao for their valuable contribution to the field of autism research [1].
+We would like to thank Shi Chen et al. for their valuable contribution to the field of autism research and our project [1].
+We would like to personally thank Shi Chen for the time he has taken to answer our questions.
+We would also like to thank Augusto Esteves for the GazeTrack library which we found helpful with establishing connection to a consumer-level eye tracker.
+GazeTrack can be found here: https://github.com/AugustoEst/gazetrack.
 
 ### References
 [1] Chen, S., & Zhao, Q. (2019). Attention-Based Autism Spectrum Disorder Screening With Privileged Modality. In The IEEE International Conference on Computer Vision (ICCV).
