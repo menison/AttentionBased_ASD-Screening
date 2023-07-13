@@ -24,6 +24,16 @@ python main.py
 
 ### Screenshots (Description; Image)
 <div align="center">
+  <ul>
+    <li>Data Confidentiality Agreement Screen<br>![Alt Text](imgs/agreement_screen.png)</li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ul>
 - Welcome Screen
 ![Alt Text](imgs/first_screen.png)
 
