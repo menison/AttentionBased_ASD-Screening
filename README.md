@@ -23,21 +23,29 @@ Additional instructions can be found within the 'User Guide: Operating Instructi
 python main.py 
 
 ### Screenshots
-<img src="imgs/first_screen.png" alt="Welcome" width="1024" height="600" align="left">
+
+![Alt Text](imgs/first_screen.png)
 Welcome Screen
-<img src="imgs/agreement_screen.png" alt="Data Confidentiality Agreement" width="1024" height="600" align="left">
+
+![Alt Text](imgs/agreement_screen.png)
 Data Confidentiality Agreement Screen
-<img src="imgs/calibration_screen.png" alt="Calibration and Display Setup" width="1024" height="600">
+
+![Alt Text](imgs/calibration_screen.png)
 Calibration and Display Setup Screen
-<img src="imgs/calibration_process.png" alt="Eye-Tracker Calibration" width="1200" height="500">
+
+![Alt Text](imgs/calibration_process.png)
 Eye-Tracker Calibration Procedure
-<img src="imgs/displaySetup.jpg" alt="Display Setup" width="760" height="460">
+
+![Alt Text](imgs/displaySetup.jpg)
 Display Setup Procedure
-<img src="imgs/experinent.png" alt="Timed Image-Viewer" width="500" height="400">
+
+![Alt Text](imgs/experinent.png)
 Timed Image-Viewer - eye movements are recorded in the background.
-<img src="imgs/result_screen1.png" alt="Result: Diagnosis" width="1024" height="600">
+
+![Alt Text](imgs/result_screen1.png)
 Results: Diagnosis Screen
-<img src="imgs/heatMap.png" alt="Result: Generated HeatMaps" width="1280" height="500">
+
+![Alt Text](imgs/heatMap.png)
 Results: Generated HeatMaps Image Slider
 
 ### Acknowledgments
