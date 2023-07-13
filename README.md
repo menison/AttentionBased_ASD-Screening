@@ -25,7 +25,8 @@ python main.py
 ### Screenshots (Description; Image)
 <div>
   <ul>
-    <li >Data Confidentiality Agreement Screen<br><img src="imgs/first_screen.png"></li>
+    <li >Data Confidentiality Agreement Screen</li>
+    ![Alt Text](imgs/first_screen.png)
     <li></li>
     <li></li>
     <li></li>
