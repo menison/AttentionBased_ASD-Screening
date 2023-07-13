@@ -4,9 +4,9 @@ It is an **ad-hoc HCI** used to predict results on handcrafted data sampled from
 The underlying model was trained and validated on Saliency4ASD(https://saliency4asd.ls2n.fr/datasets/) dataset[1].<br>
 The code is available in: https://drive.google.com/drive/folders/1L_R1JwD7o7V5iskhunCfCDeoIqK-S6H-?usp=sharing
 
-###Simulation
+### Simulation
 <video width="320" height="240" controls>
-  <source src="path_to_video_file.mp4" type="video/mp4">
+  <source src="vid/" type="vid/Capstone Project Phase B–23-1-R-16.mp4">
   Your browser does not support the video tag.
 </video>
 
