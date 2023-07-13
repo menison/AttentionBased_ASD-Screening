@@ -29,7 +29,7 @@ Welcome Screen
 Data Confidentiality Agreement Screen
 <img src="imgs/calibration_screen.png" alt="Calibration and Display Setup" width="1024" height="600">
 Calibration and Display Setup Screen
-<img src="imgs/calibration_process.png" alt="Eye-Tracker Calibration" width="1024" height="600">
+<img src="imgs/calibration_process.png" alt="Eye-Tracker Calibration" width="1200" height="500">
 Eye-Tracker Calibration Procedure
 <img src="imgs/displaySetup.jpg" alt="Display Setup" width="760" height="460">
 Display Setup Procedure
