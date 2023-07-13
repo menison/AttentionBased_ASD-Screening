@@ -33,6 +33,8 @@ python main.py
 ![Result: Diagnosis](imgs/result_screen1.png "Results: Diagnosis Screen")
 ![Result: Generated HeatMaps](imgs/heatMap.png "Results: Generated HeatMaps Screen")
 
+<img src="imgs/first_screen.png" alt="Welcome" width="200" height="150">
+
 ### Acknowledgments
 We would like to thank Shi Chen et al. [1] for their valuable contribution to the field of autism research and our project.
 We would like to personally thank Shi Chen for the time he has taken to answer our questions.
