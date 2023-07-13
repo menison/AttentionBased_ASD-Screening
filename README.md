@@ -37,7 +37,7 @@ Display Setup Procedure
 Timed Image-Viewer - eye movements are recorded in the background.
 <img src="imgs/result_screen1.png" alt="Result: Diagnosis" width="1024" height="600">
 Results: Diagnosis Screen
-<img src="imgs/heatMap.png" alt="Result: Generated HeatMaps" width="1024" height="600">
+<img src="imgs/heatMap.png" alt="Result: Generated HeatMaps" width="1280" height="500">
 Results: Generated HeatMaps Image Slider
 
 ### Acknowledgments
