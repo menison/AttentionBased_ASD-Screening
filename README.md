@@ -24,7 +24,7 @@ python main.py
 
 ### Screenshots (Description; Image)
 <div>
-  <ul style="display: inline-block;">
+  <ul>
     <li >Data Confidentiality Agreement Screen<br><img src="imgs/first_screen.png"></li>
     <li></li>
     <li></li>
