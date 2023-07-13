@@ -23,7 +23,7 @@ Additional instructions can be found within the 'User Guide: Operating Instructi
 python main.py 
 
 ### Screenshots
-<img src="imgs/first_screen.png" alt="Welcome" width="1024" height="600" align="center">
+<img src="imgs/first_screen.png" alt="Welcome" width="1024" height="600" align="left">
 Welcome Screen
 <img src="imgs/agreement_screen.png" alt="Data Confidentiality Agreement" width="1024" height="600">
 Data Confidentiality Agreement Screen
