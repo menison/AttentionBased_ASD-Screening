@@ -6,7 +6,7 @@ The code is available in: https://drive.google.com/drive/folders/1L_R1JwD7o7V5is
 
 ### Simulation
 <video width="320" height="240" controls>
-  <source src="vid/Capstone Project Phase B–23-1-R-16.mp4" type="video/mp4">
+  <source src="vid/Capstone%20Project%20Phase%20B%E2%80%9323-1-R-16%20.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
