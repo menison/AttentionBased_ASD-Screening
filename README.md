@@ -24,14 +24,14 @@ python main.py
 
 ### Screenshots
 
-![Welcome](imgs/first_screen.png)
-![Data Confidentiality Agreement](imgs/agreement_screen.png)
-![Calibration and Display Setup](imgs/calibration_screen.png)
-![Eye-Tracker Calibration](path/to/image.jpg)
-![Display Setup](imgs/displaySetup.jpg)
-![Timed Image-Viewer](imgs/experinent.png)
-![Result: Diagnosis](imgs/result_screen1.png)
-![Result: Generated HeatMaps](imgs/heatMap.png)
+![Welcome](imgs/first_screen.png "Welcome Screen")
+![Data Confidentiality Agreement](imgs/agreement_screen.png "Data Confidentiality Agreement Screen")
+![Calibration and Display Setup](imgs/calibration_screen.png "Calibration and Display Setup Screen")
+![Eye-Tracker Calibration](imgs/calibration_process.png "[Eye-Tracker Calibration Procedure")
+![Display Setup](imgs/displaySetup.jpg "Display Setup Procedure")
+![Timed Image-Viewer](imgs/experinent.png "Timed Image-Viewer - eye movements are recorded in the background.")
+![Result: Diagnosis](imgs/result_screen1.png "Results: Diagnosis Screen")
+![Result: Generated HeatMaps](imgs/heatMap.png "Results: Generated HeatMaps Screen")
 
 ### Acknowledgments
 We would like to thank Shi Chen et al. [1] for their valuable contribution to the field of autism research and our project.
