@@ -9,6 +9,7 @@ The code is available in: https://drive.google.com/drive/folders/1L_R1JwD7o7V5is
   <source src="imgs/simulation.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+[![Video Demo](video_thumbnail.png)](imgs/simulation.mp4)
 
 ### Requirements
 1. Pytorch: We use Pytorch 1.2.0 in our experiments.
