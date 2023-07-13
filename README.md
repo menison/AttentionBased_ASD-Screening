@@ -25,39 +25,31 @@ python main.py
 ### Screenshots (Description; Image)
 <div>
   <ul>
-    <li >Data Confidentiality Agreement Screen</li>
-    ![Alt Text](imgs/first_screen.png)
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>
+      Welcome Screen<br><img src="imgs/first_screen.png">
+    </li>
+    <li>
+      Data Confidentiality Agreement Screen<br><img src="imgs/first_screen.png">
+    </li>
+    <li>
+      Calibration and Display Setup Screen<br><img src="imgs/calibration_screen.png">
+    </li>
+    <li>
+      Eye-Tracker Calibration Procedure<br><img src="imgs/calibration_process.png">
+    </li>
+    <li>
+      Display Setup Procedure<br><img src="imgs/displaySetup.png">
+    </li>
+    <li>
+      Timed Image-Viewer - eye movements are recorded in the background<br><img src="imgs/first_screen.png">
+    </li>
+    <li>
+      Results: Diagnosis Screen<br><img src="imgs/first_screen.png">
+    </li>
+    <li>
+      Results: Generated HeatMaps Image Slider<br><img src="imgs/first_screen.png">
+    </li>  
   </ul>
-- Welcome Screen
-![Alt Text](imgs/first_screen.png)
-
-- Data Confidentiality Agreement Screen
-![Alt Text](imgs/agreement_screen.png)
-
-- Calibration and Display Setup Screen
-![Alt Text](imgs/calibration_screen.png)
-
-- Eye-Tracker Calibration Procedure
-![Alt Text](imgs/calibration_process.png)
-
-- Display Setup Procedure
-![Alt Text](imgs/displaySetup.jpg)
-
-- Timed Image-Viewer - eye movements are recorded in the background.
-![Alt Text](imgs/experinent.png)<br>
-
-- Results: Diagnosis Screen
-![Alt Text](imgs/result_screen1.png)
-
-- Results: Generated HeatMaps Image Slider
-![Alt Text](imgs/heatMap.png)
 </div>
 
 ### Acknowledgments
