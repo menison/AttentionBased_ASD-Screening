@@ -22,7 +22,18 @@ Additional instructions can be found within the 'User Guide: Operating Instructi
 
 python main.py 
 
-## Acknowledgments
+### Screenshots
+
+![Welcome](imgs/first_screen.png)
+![Data Confidentiality Agreement](imgs/agreement_screen.png)
+![Calibration and Display Setup](imgs/calibration_screen.png)
+![Eye-Tracker Calibration](path/to/image.jpg)
+![Display Setup](imgs/displaySetup.jpg)
+![Timed Image-Viewer](imgs/experinent.png)
+![Result: Diagnosis](imgs/result_screen1.png)
+![Result: Generated HeatMaps](imgs/heatMap.png)
+
+### Acknowledgments
 We would like to thank Shi Chen et al. [1] for their valuable contribution to the field of autism research and our project.
 We would like to personally thank Shi Chen for the time he has taken to answer our questions.
 We would also like to thank Augusto Esteves for the GazeTrack library which we found helpful with establishing connection to a consumer-level eye tracker.
