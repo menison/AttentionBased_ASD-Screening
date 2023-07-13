@@ -35,7 +35,7 @@ python main.py
       Calibration and Display Setup Screen<br><img src="imgs/calibration_screen.png">
     </li>
     <li>
-      Eye-Tracker Calibration Procedure<br><img src="imgs/calibration_process.png" style="width: 1500px;">
+      Eye-Tracker Calibration Procedure<br><img src="imgs/calibration_process.png" style="width: 100%; height:50%">
     </li>
     <li>
       Display Setup Procedure<br><img src="imgs/displaySetup.jpg">
