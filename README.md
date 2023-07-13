@@ -59,10 +59,6 @@ GazeTrack can be found here: https://github.com/AugustoEst/gazetrack.
 [1] Chen, S., & Zhao, Q. (2019). Attention-Based Autism Spectrum Disorder Screening With Privileged Modality. In The IEEE International Conference on Computer Vision (ICCV).
 
 <style>
-  ul.inline-list {
-    list-style-type: none;
-    padding: 0;
-  }
 
   ul.inline-list li {
     display: inline-block;
