@@ -5,11 +5,8 @@ The underlying model was trained and validated on Saliency4ASD(https://saliency4
 The code is available in: https://drive.google.com/drive/folders/1L_R1JwD7o7V5iskhunCfCDeoIqK-S6H-?usp=sharing
 
 ### Simulation
-<video width="320" height="240" controls>
-  <source src="imgs/simulation.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-[![Video Demo](video_thumbnail.png)](imgs/simulation.mp4)
+
+[![Video Demo](https://img.youtube.com/vi/Y2h2jh8pMAk/hqdefault.jpg)](https://youtu.be/Y2h2jh8pMAk)
 
 ### Requirements
 1. Pytorch: We use Pytorch 1.2.0 in our experiments.
