@@ -4,6 +4,12 @@ It is an **ad-hoc HCI** used to predict results on handcrafted data sampled from
 The underlying model was trained and validated on Saliency4ASD(https://saliency4asd.ls2n.fr/datasets/) dataset[1].<br>
 The code is available in: https://drive.google.com/drive/folders/1L_R1JwD7o7V5iskhunCfCDeoIqK-S6H-?usp=sharing
 
+###Simulation
+<video width="320" height="240" controls>
+  <source src="path_to_video_file.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ### Requirements
 1. Pytorch: We use Pytorch 1.2.0 in our experiments.
 2. Tensorflow: We only use the tensorboard for visualization.
