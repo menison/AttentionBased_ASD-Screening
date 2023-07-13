@@ -1,4 +1,4 @@
-![image](https://github.com/menison/AttentionBased_ASD-Screening/assets/81287833/638ff773-4d4b-4b3d-ba76-cb42977deb5f)# Attention-based ASD Screening
+# Attention-based ASD Screening
 Attention-based ASD screening software.
 It is an ad-hoc HCI used to predict results on handcrafted data sampled from Tobii 4C/EyeX consumer-level eye-tracking devices, while viewing 100 images from the MIT1003 dataset.
 The underlying model was trained and validated on Saliency4ASD(https://saliency4asd.ls2n.fr/datasets/) dataset.[1]
