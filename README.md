@@ -29,13 +29,13 @@ python main.py
       Welcome Screen<br><img src="imgs/first_screen.png">
     </li>
     <li>
-      Data Confidentiality Agreement Screen<br><img src="imgs/first_screen.png">
+      Data Confidentiality Agreement Screen<br><img src="imgs/agreement_screen.png">
     </li>
     <li>
       Calibration and Display Setup Screen<br><img src="imgs/calibration_screen.png">
     </li>
     <li>
-      Eye-Tracker Calibration Procedure<br><img src="imgs/calibration_process.png" style="width: 100%">
+      Eye-Tracker Calibration Procedure<br><img src="imgs/calibration_process.png">
     </li>
     <li>
       Display Setup Procedure<br><img src="imgs/displaySetup.jpg">
