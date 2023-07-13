@@ -1,4 +1,4 @@
-# Attention-based ASD Screening
+![image](https://github.com/menison/AttentionBased_ASD-Screening/assets/81287833/638ff773-4d4b-4b3d-ba76-cb42977deb5f)# Attention-based ASD Screening
 Attention-based ASD screening software.
 It is an ad-hoc HCI used to predict results on handcrafted data sampled from Tobii 4C/EyeX consumer-level eye-tracking devices, while viewing 100 images from the MIT1003 dataset.
 The underlying model was trained and validated on Saliency4ASD(https://saliency4asd.ls2n.fr/datasets/) dataset.[1]
@@ -33,7 +33,22 @@ python main.py
 ![Result: Diagnosis](imgs/result_screen1.png "Results: Diagnosis Screen")
 ![Result: Generated HeatMaps](imgs/heatMap.png "Results: Generated HeatMaps Screen")
 
-<img src="imgs/first_screen.png" alt="Welcome" width="760" height="460">
+<img src="imgs/first_screen.png" alt="Welcome" width="760" height="460" align="center">
+Welcome Screen
+<img src="imgs/agreement_screen.png" alt="Data Confidentiality Agreement" width="760" height="460">
+Data Confidentiality Agreement Screen
+<img src="imgs/calibration_screen.png" alt="Calibration and Display Setup" width="760" height="460">
+Calibration and Display Setup Screen
+<img src="imgs/calibration_process.png" alt="Eye-Tracker Calibration" width="760" height="460">
+Eye-Tracker Calibration Procedure
+<img src="imgs/displaySetup.jpg" alt="Display Setup" width="760" height="460">
+Display Setup Procedure
+<img src="imgs/experinent.png" alt="Timed Image-Viewer" width="760" height="460">
+Timed Image-Viewer - eye movements are recorded in the background.
+<img src="imgs/result_screen1.png" alt="Result: Diagnosis" width="760" height="460">
+Results: Diagnosis Screen
+<img src="imgs/heatMap.png" alt="Result: Generated HeatMaps" width="760" height="460">
+Results: Generated HeatMaps Image Slider
 
 ### Acknowledgments
 We would like to thank Shi Chen et al. [1] for their valuable contribution to the field of autism research and our project.
