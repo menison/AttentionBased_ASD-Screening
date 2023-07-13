@@ -34,8 +34,8 @@ python main.py
     <li>
       Calibration and Display Setup Screen<br><img src="imgs/calibration_screen.png">
     </li>
-    <li style="width: 100%; height:50%">
-      Eye-Tracker Calibration Procedure<br><img src="imgs/calibration_process.png" style="width: 100%; height:50%">
+    <li>
+      Eye-Tracker Calibration Procedure<br><img src="imgs/calibration_process.png" class="big">
     </li>
     <li>
       Display Setup Procedure<br><img src="imgs/displaySetup.jpg">
@@ -62,15 +62,10 @@ GazeTrack can be found here: https://github.com/AugustoEst/gazetrack.
 [1] Chen, S., & Zhao, Q. (2019). Attention-Based Autism Spectrum Disorder Screening With Privileged Modality. In The IEEE International Conference on Computer Vision (ICCV).
 
 <style>
-  ul.inline-list {
-    list-style-type: none;
-    padding: 0;
-  }
-
-  ul.inline-list li {
-    display: inline-block;
-    margin-right: 10px;
-  }
+.big{
+  width: 100%;
+  height: 100%;
+}
 </style>
 
 
