@@ -24,7 +24,7 @@ python main.py
 
 ### Screenshots (Description; Image)
 <div>
-  <ul style="margin: 10px 10px 10px 10px;">
+  <ul>
     <li>
       Welcome Screen<br><img src="imgs/first_screen.png">
     </li>
@@ -35,7 +35,7 @@ python main.py
       Calibration and Display Setup Screen<br><img src="imgs/calibration_screen.png">
     </li>
     <li>
-      Eye-Tracker Calibration Procedure<br><img src="imgs/calibration_process.png">
+      Eye-Tracker Calibration Procedure<br><img src="imgs/calibration_process.png" style="width: 100%">
     </li>
     <li>
       Display Setup Procedure<br><img src="imgs/displaySetup.jpg">
