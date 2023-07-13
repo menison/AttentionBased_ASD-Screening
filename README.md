@@ -24,7 +24,7 @@ python main.py
 
 ### Screenshots (Description; Image)
 <div align="center">
-  <ul>
+  <ul class="inline-list">
     <li>Data Confidentiality Agreement Screen<br><img src="imgs/first_screen.png"></li>
     <li></li>
     <li></li>
@@ -69,10 +69,16 @@ GazeTrack can be found here: https://github.com/AugustoEst/gazetrack.
 [1] Chen, S., & Zhao, Q. (2019). Attention-Based Autism Spectrum Disorder Screening With Privileged Modality. In The IEEE International Conference on Computer Vision (ICCV).
 
 <style>
+  ul.inline-list {
+    list-style-type: none;
+    padding: 0;
+  }
 
   ul.inline-list li {
     display: inline-block;
     margin-right: 10px;
   }
 </style>
+
+
 
