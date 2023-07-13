@@ -24,7 +24,7 @@ python main.py
 
 ### Screenshots (Description; Image)
 <div>
-  <ul>
+  <ul style="margin: 10px">
     <li>
       Welcome Screen<br><img src="imgs/first_screen.png">
     </li>
