@@ -22,31 +22,32 @@ Additional instructions can be found within the 'User Guide: Operating Instructi
 
 python main.py 
 
-### Screenshots
-
-![Alt Text](imgs/first_screen.png)
+### Screenshots (Description; Image)
+<div align="center">
 - Welcome Screen
+![Alt Text](imgs/first_screen.png)
 
-![Alt Text](imgs/agreement_screen.png)
 - Data Confidentiality Agreement Screen
+![Alt Text](imgs/agreement_screen.png)
 
-![Alt Text](imgs/calibration_screen.png)
 - Calibration and Display Setup Screen
+![Alt Text](imgs/calibration_screen.png)
 
-![Alt Text](imgs/calibration_process.png)
 - Eye-Tracker Calibration Procedure
+![Alt Text](imgs/calibration_process.png)
 
-![Alt Text](imgs/displaySetup.jpg)
 - Display Setup Procedure
+![Alt Text](imgs/displaySetup.jpg)
 
-![Alt Text](imgs/experinent.png)<br>
 - Timed Image-Viewer - eye movements are recorded in the background.
+![Alt Text](imgs/experinent.png)<br>
 
-![Alt Text](imgs/result_screen1.png)
 - Results: Diagnosis Screen
+![Alt Text](imgs/result_screen1.png)
 
-![Alt Text](imgs/heatMap.png)
 - Results: Generated HeatMaps Image Slider
+![Alt Text](imgs/heatMap.png)
+</div>
 
 ### Acknowledgments
 We would like to thank Shi Chen et al. [1] for their valuable contribution to the field of autism research and our project.
