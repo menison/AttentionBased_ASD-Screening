@@ -20,7 +20,7 @@ The code displays images from [Saliency4ASD](https://saliency4asd.ls2n.fr/datase
 Extract the folder 'PyProjects' to drive F:/ to create the path 'F:/PyProjects'. The rest is straight-forward, just run the main file and follow the instructions on the screen.
 Additional instructions can be found within the 'User Guide: Operating Instructions' section of our book.
 
-python main.py 
+`python main.py` 
 
 ### Screenshots (Description; Image)
 <div>
