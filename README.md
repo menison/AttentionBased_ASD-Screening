@@ -11,7 +11,7 @@ The code is available in: https://drive.google.com/drive/folders/1L_R1JwD7o7V5is
 4. CUDA-Enabled GPU
 5. MATLAB
 6. Tobii Consumer Eye-Tracker Device (Tested against 4C/EyeX)
-7. Latest Tobii Eye-Tracker Driver installed: Tobii.EyeX.Interaction.exe and Tobii.EyeX.Configuration should be present in the '\Tobii\Tobii EyeX Config' path in your PC.
+7. Latest Tobii Eye-Tracker Driver installed: `Tobii.EyeX.Interaction.exe` and `Tobii.EyeX.Configuration` should be present in the `\Tobii\Tobii EyeX Config` path in your PC.
 
 ### Data Processing
 The code displays images from [Saliency4ASD](https://saliency4asd.ls2n.fr/datasets/) dataset. Please download the dataset accordingly and unzip it to folder `generated/Images`.
