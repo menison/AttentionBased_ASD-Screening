@@ -39,7 +39,7 @@ Eye-Tracker Calibration Procedure
 ![Alt Text](imgs/displaySetup.jpg)
 Display Setup Procedure
 
-![Alt Text](imgs/experinent.png)
+![Alt Text](imgs/experinent.png)<br>
 Timed Image-Viewer - eye movements are recorded in the background.
 
 ![Alt Text](imgs/result_screen1.png)
