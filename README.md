@@ -25,7 +25,7 @@ python main.py
 ### Screenshots
 <img src="imgs/first_screen.png" alt="Welcome" width="1024" height="600" align="left">
 Welcome Screen
-<img src="imgs/agreement_screen.png" alt="Data Confidentiality Agreement" width="1024" height="600">
+<img src="imgs/agreement_screen.png" alt="Data Confidentiality Agreement" width="1024" height="600" align="left">
 Data Confidentiality Agreement Screen
 <img src="imgs/calibration_screen.png" alt="Calibration and Display Setup" width="1024" height="600">
 Calibration and Display Setup Screen
