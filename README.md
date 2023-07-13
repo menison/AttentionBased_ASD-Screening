@@ -23,31 +23,21 @@ Additional instructions can be found within the 'User Guide: Operating Instructi
 python main.py 
 
 ### Screenshots
-
-![Welcome](imgs/first_screen.png "Welcome Screen")
-![Data Confidentiality Agreement](imgs/agreement_screen.png "Data Confidentiality Agreement Screen")
-![Calibration and Display Setup](imgs/calibration_screen.png "Calibration and Display Setup Screen")
-![Eye-Tracker Calibration](imgs/calibration_process.png "[Eye-Tracker Calibration Procedure")
-![Display Setup](imgs/displaySetup.jpg "Display Setup Procedure")
-![Timed Image-Viewer](imgs/experinent.png "Timed Image-Viewer - eye movements are recorded in the background.")
-![Result: Diagnosis](imgs/result_screen1.png "Results: Diagnosis Screen")
-![Result: Generated HeatMaps](imgs/heatMap.png "Results: Generated HeatMaps Screen")
-
-<img src="imgs/first_screen.png" alt="Welcome" width="760" height="460" align="center">
+<img src="imgs/first_screen.png" alt="Welcome" width="1024" height="600" align="center">
 Welcome Screen
-<img src="imgs/agreement_screen.png" alt="Data Confidentiality Agreement" width="760" height="460">
+<img src="imgs/agreement_screen.png" alt="Data Confidentiality Agreement" width="1024" height="600">
 Data Confidentiality Agreement Screen
-<img src="imgs/calibration_screen.png" alt="Calibration and Display Setup" width="760" height="460">
+<img src="imgs/calibration_screen.png" alt="Calibration and Display Setup" width="1024" height="600">
 Calibration and Display Setup Screen
-<img src="imgs/calibration_process.png" alt="Eye-Tracker Calibration" width="760" height="460">
+<img src="imgs/calibration_process.png" alt="Eye-Tracker Calibration" width="1024" height="600">
 Eye-Tracker Calibration Procedure
 <img src="imgs/displaySetup.jpg" alt="Display Setup" width="760" height="460">
 Display Setup Procedure
-<img src="imgs/experinent.png" alt="Timed Image-Viewer" width="760" height="460">
+<img src="imgs/experinent.png" alt="Timed Image-Viewer" width="500" height="400">
 Timed Image-Viewer - eye movements are recorded in the background.
-<img src="imgs/result_screen1.png" alt="Result: Diagnosis" width="760" height="460">
+<img src="imgs/result_screen1.png" alt="Result: Diagnosis" width="1024" height="600">
 Results: Diagnosis Screen
-<img src="imgs/heatMap.png" alt="Result: Generated HeatMaps" width="760" height="460">
+<img src="imgs/heatMap.png" alt="Result: Generated HeatMaps" width="1024" height="600">
 Results: Generated HeatMaps Image Slider
 
 ### Acknowledgments
