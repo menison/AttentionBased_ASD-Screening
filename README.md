@@ -23,7 +23,7 @@ Additional instructions can be found within the 'User Guide: Operating Instructi
 python main.py 
 
 ### Screenshots (Description; Image)
-<div align="center">
+<div>
   <ul style="display: inline-block;">
     <li >Data Confidentiality Agreement Screen<br><img src="imgs/first_screen.png"></li>
     <li></li>
