@@ -4,7 +4,7 @@ It is an **ad-hoc HCI** used to predict results on handcrafted data sampled from
 The underlying model was trained and validated on Saliency4ASD(https://saliency4asd.ls2n.fr/datasets/) dataset[1].<br>
 The code is available in: https://drive.google.com/drive/folders/1L_R1JwD7o7V5iskhunCfCDeoIqK-S6H-?usp=sharing
 
-### Simulation - Click to view the video in YT
+### Simulation - Click to watch the video on YT
 
 [![Video Demo](https://img.youtube.com/vi/Y2h2jh8pMAk/hqdefault.jpg)](https://youtu.be/Y2h2jh8pMAk)
 
